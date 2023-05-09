@@ -90,6 +90,7 @@ header{
     background-color: #4e0070 !important;
     color: white !important;
     border: 2px solid #4e0070;
+    font-size: 1rem !important;
 }
 
 .button-float:hover{
